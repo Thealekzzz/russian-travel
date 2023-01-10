@@ -10,11 +10,6 @@
     margin: 0 0 33px;
 }
 
-@media (max-width: 1280px) {
-    .intro__subtitle {
-    }
-}
-
 @media (max-width: 1024px) {
     .intro__subtitle {
         width: 100%;
