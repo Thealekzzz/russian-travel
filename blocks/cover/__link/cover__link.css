@@ -35,7 +35,7 @@
 }
 
 .cover__link:hover::after {
-    background-color: rgba(42, 44, 47, .8);;
+    background-color: rgba(42, 44, 47, .8);
 }
 
 @media (max-width: 1200px) {
