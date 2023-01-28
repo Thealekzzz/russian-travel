@@ -47,7 +47,6 @@
 
 @media (max-width: 1000px) {
     .cover__link {
-        width: 100%;
         min-height: 480px;
         margin: 0 auto 88px;
     }
@@ -55,7 +54,6 @@
 
 @media (max-width: 750px) {
     .cover__link {
-        width: 100%;
         min-height: 300px;
         margin: 0 auto 64px;
     }
@@ -63,8 +61,6 @@
 
 @media (max-width: 450px) {
     .cover__link {
-        width: 100%;
         min-height: 200px;
-        margin: 0 auto 64px;
     }
 }

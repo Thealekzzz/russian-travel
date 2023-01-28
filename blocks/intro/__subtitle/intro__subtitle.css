@@ -15,9 +15,3 @@
         width: 100%;
     }
 }
-
-@media (max-width: 750px) {
-    .intro__subtitle {
-        width: 100%;
-    }
-}
