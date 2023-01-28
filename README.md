@@ -6,4 +6,4 @@
 ### Какие технологии?
 Сайт построен на flex и grid элементах по методологии Nested БЭМ.
 
-[Ссылка на сайт в Pages](https://thealekzzz.github.io/russian-travel/pages/index.html)
+[Ссылка на сайт в Pages](https://thealekzzz.github.io/russian-travel/)
