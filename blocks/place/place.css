@@ -9,7 +9,7 @@
     justify-content: center;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1200px) {
     .place {
         grid-template-columns: 440px 1fr;
         width: 100%;
@@ -17,7 +17,7 @@
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
     .place {
         grid-template-columns: 340px 1fr;
         gap: 48px 28px;
@@ -25,7 +25,7 @@
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .place {
         grid-template-columns: .7fr;
         justify-content: center;

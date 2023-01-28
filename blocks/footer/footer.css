@@ -3,26 +3,26 @@
     justify-content: space-between;
     align-items: center;
 
-    width: 1280px;
+    max-width: 1280px;
     padding: 0 48px;
     margin: 0 auto 24px;
 
     box-sizing: border-box;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1200px) {
     .footer {
-        width: 1024px;
+        max-width: 100%;
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
     .footer {
-        width: 768px;
+        padding: 0 24px;
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .footer {
         width: 320px;
         padding: 0 16px;

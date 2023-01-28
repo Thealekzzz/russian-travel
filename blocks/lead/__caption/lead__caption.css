@@ -13,13 +13,13 @@
     text-transform: uppercase;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
     .lead__caption {
         padding: 0 24px;
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .lead__caption {
         padding: 0 16px;
     }

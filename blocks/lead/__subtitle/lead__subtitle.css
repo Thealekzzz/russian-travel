@@ -12,7 +12,15 @@
     text-align: center;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1200px) {
+    .lead__subtitle {
+        margin-bottom: 56px;
+
+    }
+    
+}
+
+@media (max-width: 750px) {
     .lead__subtitle {
         max-width: 288px;
 

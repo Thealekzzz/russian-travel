@@ -8,7 +8,7 @@
     cursor: pointer;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .header__lang-link {
         font-size: 18px;
     }

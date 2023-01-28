@@ -3,20 +3,20 @@
     margin: 0 auto 92px;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1200px) {
     .lead {
         width: calc(100% - 48px * 2);
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
     .lead {
         width: 100%;
         margin: 0 auto 88px;
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .lead {
         width: 100%;
         margin: 0 auto 64px;

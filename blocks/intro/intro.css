@@ -1,28 +1,27 @@
 .intro {
-    width: 1280px;
+    max-width: 1280px;
     margin: 0 auto 92px;
     padding-left: 148px;
 
     box-sizing: border-box;
 }
 
-@media (max-width: 1280px) {
+@media (max-width: 1200px) {
     .intro {
-        width: calc(100% - 48px * 2);
+        max-width: 100%;
+        margin: 0 48px 92px;
         padding: 0;
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
     .intro {
-        width: calc(100% - 24px * 2);
-        margin-bottom: 88px;
+        margin: 0 24px 88px;
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .intro {
-        width: calc(100% - 16px * 2);
-        margin-bottom: 64px;
+        margin: 0 16px 64px;
     }
 }

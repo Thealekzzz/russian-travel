@@ -2,7 +2,7 @@
     align-self: end;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .place__website {
         padding: 0 16px;
     }

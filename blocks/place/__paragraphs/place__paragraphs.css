@@ -9,14 +9,14 @@
     gap: 26px;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
     .place__paragraphs {
         font-size: 16px;
         gap: 25px;
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .place__paragraphs {
         font-size: 16px;
         gap: 25px;

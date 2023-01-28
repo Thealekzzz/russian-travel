@@ -12,21 +12,17 @@
     margin: 0;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1000px) {
     .place__title {
         max-width: 330px;
-        font-style: normal;
-        font-weight: 900;
         font-size: 42px;
         line-height: 46px;
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 750px) {
     .place__title {
         max-width: 100%;
-        font-style: normal;
-        font-weight: 900;
         font-size: 32px;
         line-height: 35px;
         padding: 0 16px;
