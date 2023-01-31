@@ -23,15 +23,12 @@
 
 @media (max-width: 1000px) {
     .header {
-        width: 100%;
         padding: 0 24px;
-        margin-bottom: 48px;
     }
 }
 
 @media (max-width: 750px) {
     .header {
-        width: 100%;
         padding: 0 16px;
         margin: 16px auto 48px;
     }

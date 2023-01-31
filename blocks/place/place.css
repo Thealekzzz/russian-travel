@@ -12,7 +12,6 @@
 @media (max-width: 1200px) {
     .place {
         grid-template-columns: 440px 1fr;
-        width: 100%;
         gap: 48px 32px;
     }
 }
@@ -28,7 +27,6 @@
 @media (max-width: 750px) {
     .place {
         grid-template-columns: .7fr;
-        justify-content: center;
         gap: 32px;
         
     }
